@@ -1,0 +1,1281 @@
+Product - exchange_server
+Shodan Queries - http.title:"Outlook", vuln:CVE-2021-26855
+
+Product - windows_7
+Shodan Queries - "Microsoft-IIS" "2015"
+
+Product - sharepoint_server
+Shodan Queries - http.headers_hash:-1968878704
+
+Product - skype_for_business_server
+Shodan Queries - html:"Skype for Business"
+
+Product - .net_framework
+Shodan Queries - Server: MS .NET Remoting
+
+Product - ios
+Shodan Queries - product:"Cisco IOS http config" && 200
+
+Product - evolved_programmable_network_manager
+Shodan Queries - http.title:"prime infrastructure"
+
+Product - sg200-50_firmware
+Shodan Queries - /config/log_off_page.htm
+
+Product - rv160_firmware
+Shodan Queries - http.html:"Cisco rv340"
+
+Product - ios_xe
+Shodan Queries - http.html_hash:1076109428
+
+Product - tivoli_common_reporting
+Shodan Queries - http.html:"IBM WebSphere Portal"
+
+Product - maximo_asset_management
+Shodan Queries - http.favicon.hash:-399298961
+
+Product - aspera_faspex
+Shodan Queries - html:"Aspera Faspex"
+
+Product - operational_decision_manager
+Shodan Queries - html:"IBM ODM"
+
+Product - sap_web_application_server
+Shodan Queries - html:"SAP Business Server Pages Team"
+
+Product - netweaver
+Shodan Queries - http.favicon.hash:-266008933
+
+Product - netweaver_application_server_java
+Shodan Queries - http.favicon.hash:-266008933
+
+Product - netweaver_development_infrastructure
+Shodan Queries - html:"SAP NetWeaver"
+
+Product - knowledge_warehouse
+Shodan Queries - http.favicon.hash:-266008933
+
+Product - content_server
+Shodan Queries - http.favicon.hash:-266008933
+
+Product - omnipcx
+Shodan Queries - title:"OmniPCX for Enterprise"
+
+Product - joomla\!
+Shodan Queries - http.component:"Joomla", html:"Joomla! - Open Source Content Management"
+
+Product - phppgadmin
+Shodan Queries - http.title:"phpPgAdmin"
+
+Product - h-sphere
+Shodan Queries - title:"Parallels H-Sphere, title:"h-sphere"
+
+Product - siteengine
+Shodan Queries - html:"SiteEngine"
+
+Product - phpmyadmin
+Shodan Queries - title:"phpmyadmin", http.component:"phpmyadmin"
+
+Product - coldfusion
+Shodan Queries - http.component:"Adobe ColdFusion", http.component:"Adobe Coldfusion"
+
+Product - dispatcher
+Shodan Queries - http.component:"Adobe Experience Manager"
+
+Product - experience_manager
+Shodan Queries - http.component:"Adobe Experience Manager", http.title:"AEM Sign In"
+
+Product - connect
+Shodan Queries - title:"Adobe Connect"
+
+Product - axis2
+Shodan Queries - http.html:"Apache Axis"
+
+Product - struts
+Shodan Queries - html:"Struts Problem Report", html:"Apache Struts", title:"Struts2 Showcase"
+
+Product - http_server
+Shodan Queries - Apache 2.4.49
+
+Product - tomcat
+Shodan Queries - title:"Apache Tomcat", html:"Apache Tomcat"
+
+Product - solr
+Shodan Queries - title:"Apache Solr"
+
+Product - tomcat_jk_connector
+Shodan Queries - title:"Apache Tomcat"
+
+Product - ofbiz
+Shodan Queries - OFBiz.Visitor=, html:"OFBiz"
+
+Product - airflow
+Shodan Queries - http.html:"Apache Airflow" || title:"Airflow - DAGs", title:"Airflow - DAGs" || http.html:"Apache Airflow", title:"Sign In - Airflow"
+
+Product - cocoon
+Shodan Queries - http.html:"Apache Cocoon"
+
+Product - kylin
+Shodan Queries - http.favicon.hash:-186961397
+
+Product - apisix
+Shodan Queries - title:"Apache APISIX Dashboard"
+
+Product - superset
+Shodan Queries - http.favicon.hash:1582430156, html:"Apache Superset"
+
+Product - shardingsphere_elasticjob-ui
+Shodan Queries - http.favicon.hash:816588900
+
+Product - spark
+Shodan Queries - title:"Spark Master at"
+
+Product - kafka_connect
+Shodan Queries - html:"Apache Druid"
+
+Product - jboss_enterprise_application_platform
+Shodan Queries - title:"JBoss"
+
+Product - keycloak
+Shodan Queries - title:"keycloak", html:"Keycloak"
+
+Product - tikiwiki_cms\/groupware
+Shodan Queries - http.html:"tiki wiki"
+
+Product - spamtitan
+Shodan Queries - title:"WebTitan"
+
+Product - dolibarr_erp\/crm
+Shodan Queries - http.favicon.hash:440258421
+
+Product - fusion_middleware
+Shodan Queries - title:"Weblogic", http.html:"Weblogic Application Server"
+
+Product - weblogic_server
+Shodan Queries - title:"Oracle PeopleSoft Sign-in"
+
+Product - jd_edwards_enterpriseone_tools
+Shodan Queries - port:8999 product:"Oracle WebLogic Server"
+
+Product - access_manager
+Shodan Queries - http.title:"Oracle Access Management"
+
+Product - e-business_suite
+Shodan Queries - http.title:"Login" "X-ORACLE-DMS-ECID" 200
+
+Product - websitepanel
+Shodan Queries - title:"WebsitePanel" html:"login"
+
+Product - servicedesk
+Shodan Queries - http.title:"ManageEngine"
+
+Product - sinema_remote_connect_server
+Shodan Queries - title:"Logon - SINEMA Remote Connect"
+
+Product - drupal
+Shodan Queries - http.component:"drupal"
+
+Product - avatar_uploader
+Shodan Queries - http.component:"drupal"
+
+Product - http_file_server
+Shodan Queries - http.favicon.hash:2124459909
+
+Product - gogs
+Shodan Queries - title:"Sign In - Gogs"
+
+Product - eleanor_cms
+Shodan Queries - html:"eleanor"
+
+Product - mail_server
+Shodan Queries - title:"icewarp", http.title:"IceWarp Server Administration"
+
+Product - server
+Shodan Queries - title:"icewarp"
+
+Product - icewarp_server
+Shodan Queries - title:"icewarp"
+
+Product - icewarp
+Shodan Queries - http.favicon.hash:2144485375, title:"icewarp"
+
+Product - webclient
+Shodan Queries - title:"icewarp"
+
+Product - deep_castle_g2
+Shodan Queries - title:"IceWarp"
+
+Product - fortios
+Shodan Queries - port:10443 http.favicon.hash:945408572, http.html:"/remote/login" "xxxxxxxx"
+
+Product - fortinac
+Shodan Queries - title:"FortiNAC"
+
+Product - fortiwlm
+Shodan Queries - http.title:"FortiWLM"
+
+Product - magmi
+Shodan Queries - http.component:"Magento"
+
+Product - sysaid
+Shodan Queries - http.favicon.hash:1540720428
+
+Product - sysaid_on-premises
+Shodan Queries - http.favicon.hash:1540720428
+
+Product - tl-wr841n_\(9.0\)_firmware
+Shodan Queries - http.title:"TP-LINK"
+
+Product - manageengine_firewall_analyzer
+Shodan Queries - http.title:"OpManager Plus"
+
+Product - manageengine_adselfservice_plus
+Shodan Queries - http.title:"ManageEngine"
+
+Product - manageengine_adaudit_plus
+Shodan Queries - http.title:"ADAudit Plus" || http.title:"ManageEngine - ADManager Plus"
+
+Product - manageengine_access_manager_plus
+Shodan Queries - http.title:"ManageEngine", title:"ManageEngine"
+
+Product - confluence
+Shodan Queries - http.component:"Atlassian Confluence"
+
+Product - oauth
+Shodan Queries - http.component:"Atlassian Jira"
+
+Product - jira
+Shodan Queries - http.component:"Atlassian Jira", http.component:"Atlassian Confluence"
+
+Product - crowd
+Shodan Queries - http.component:"Atlassian Jira"
+
+Product - jira_server
+Shodan Queries - http.component:"Atlassian Jira"
+
+Product - jira_data_center
+Shodan Queries - http.component:"Atlassian Jira"
+
+Product - data_center
+Shodan Queries - http.component:"Atlassian Jira"
+
+Product - subversion_application_lifecycle_management
+Shodan Queries - http.component:"Atlassian Jira"
+
+Product - confluence_data_center
+Shodan Queries - http.component:"Atlassian Confluence"
+
+Product - questions_for_confluence
+Shodan Queries - http.component:"Atlassian Confluence"
+
+Product - bitbucket
+Shodan Queries - http.component:"BitBucket"
+
+Product - mycloud_nas
+Shodan Queries - http.favicon.hash:-1074357885
+
+Product - my_cloud_wdbctl0020hwt_firmware
+Shodan Queries - http.favicon.hash:-1074357885
+
+Product - zabbix
+Shodan Queries - http.favicon.hash:892542951
+
+Product - opsview
+Shodan Queries - title:"Opsview"
+
+Product - vbulletin
+Shodan Queries - title:"Powered By vBulletin", http.component:"vBulletin"
+
+Product - spip
+Shodan Queries - html:"spip.php?page=backend"
+
+Product - dt80_dex_firmware
+Shodan Queries - http.title:"datataker"
+
+Product - supervisor
+Shodan Queries - http.title:"Supervisor Status"
+
+Product - dokuwiki
+Shodan Queries - http.title:"DokuWiki"
+
+Product - opendreambox
+Shodan Queries - title:"Dreambox WebControl"
+
+Product - api_manager
+Shodan Queries - http.favicon.hash:1398055326
+
+Product - next.js
+Shodan Queries - html:"/_next/static"
+
+Product - laravel
+Shodan Queries - Laravel-Framework
+
+Product - dedecms
+Shodan Queries - http.html:"DedeCms"
+
+Product - active_management_technology_firmware
+Shodan Queries - title:"Active Management Technology"
+
+Product - phpcollab
+Shodan Queries - http.title:"PhpCollab"
+
+Product - ds-2cd2026g2-iu\/sl_firmware
+Shodan Queries - http.favicon.hash:999357577
+
+Product - dh-ipc-hdbw23a0rn-zs_firmware
+Shodan Queries - http.favicon.hash:2019488876
+
+Product - smart_parking_management
+Shodan Queries - html:"/WPMS/asset"
+
+Product - ipm-721s_firmware
+Shodan Queries - html:"Amcrest"
+
+Product - moveit_cloud
+Shodan Queries - http.favicon.hash:989289239
+
+Product - moveit_transfer
+Shodan Queries - http.favicon.hash:989289239
+
+Product - jenkins
+Shodan Queries - http.favicon.hash:81586312
+
+Product - gitlab_hook
+Shodan Queries - http.title:"GitLab"
+
+Product - git
+Shodan Queries - X-Jenkins
+
+Product - sympa
+Shodan Queries - http.html:"sympa"
+
+Product - nagios_xi
+Shodan Queries - title:"Nagios XI"
+
+Product - dns-320_firmware
+Shodan Queries - html:"ShareCenter"
+
+Product - dir-816l_firmware
+Shodan Queries - html:"DIR-816L", http.html:"DIR-816L"
+
+Product - dir-615_firmware
+Shodan Queries - http.title:"Roteador Wireless"
+
+Product - d-view_8
+Shodan Queries - http.favicon.hash:-1317621215
+
+Product - orchid_core_vms
+Shodan Queries - http.title:"Orchid Core VMS"
+
+Product - monstra_cms
+Shodan Queries - http.favicon.hash:419828698
+
+Product - monstra
+Shodan Queries - http.favicon.hash:419828698
+
+Product - identity_manager
+Shodan Queries - http.favicon.hash:-1250474341
+
+Product - aria_operations_for_logs
+Shodan Queries - title:"vRealize Log Insight"
+
+Product - vrealize_network_insight
+Shodan Queries - title:"VMware vRealize Network Insight", title:"VMware Aria Operations"
+
+Product - lgate-902_firmware
+Shodan Queries - http.html:"LGATE-902"
+
+Product - jorani
+Shodan Queries - title:"Login - Jorani"
+
+Product - bibliopac
+Shodan Queries - title:"Bibliopac"
+
+Product - fuel_cms
+Shodan Queries - http.title:"fuel cms"
+
+Product - dotcms
+Shodan Queries - http.title:"dotCMS"
+
+Product - dashboard
+Shodan Queries - product:"Kubernetes"
+
+Product - webpanel
+Shodan Queries - http.title:"Login | Control WebPanel"
+
+Product - mini-httpd
+Shodan Queries - Server: mini_httpd && 200
+
+Product - jasperreports_library
+Shodan Queries - html:"jasperserver-pro"
+
+Product - vmg1312-b10d_firmware
+Shodan Queries - http.html:"VMG1312-B10D"
+
+Product - uag2100_firmware
+Shodan Queries - http.title:"ZyWall"
+
+Product - usg20-vpn_firmware
+Shodan Queries - title:"USG FLEX 100"
+
+Product - zywall_2_plus_internet_security_appliance_firmware
+Shodan Queries - http.title:"Zywall2Plus"
+
+Product - usg_flex_100w_firmware
+Shodan Queries - title:"USG FLEX 100","USG FLEX 100w","USG FLEX 200","USG FLEX 500","USG FLEX 700","USG FLEX 50","USG FLEX 50w","ATP100","ATP200","ATP500","ATP700"
+
+Product - serv-u
+Shodan Queries - product:"Rhinosoft Serv-U httpd"
+
+Product - grav_cms
+Shodan Queries - html:"Grav CMS"
+
+Product - sugarcrm
+Shodan Queries - http.html:"SugarCRM Inc. All Rights Reserved"
+
+Product - printmonitor
+Shodan Queries - title:"PrintMonitor"
+
+Product - yzmcms
+Shodan Queries - title:"YzmCMS"
+
+Product - responsive_mega_menu_pro
+Shodan Queries - http.component:"prestashop"
+
+Product - blogengine.net
+Shodan Queries - http.html:"Blogengine.net"
+
+Product - mongo-express
+Shodan Queries - http.title:"Mongo Express"
+
+Product - pcoweb_card_firmware
+Shodan Queries - http.html:"pCOWeb"
+
+Product - connect_secure
+Shodan Queries - html:"welcome.cgi?p=logo"
+
+Product - endpoint_manager_cloud_services_appliance
+Shodan Queries - title:"LANDesk(R) Cloud Services Appliance"
+
+Product - endpoint_manager_mobile
+Shodan Queries - http.favicon.hash:362091310
+
+Product - mobileiron_sentry
+Shodan Queries - html:"Note: Requires a local Sentry administrative user"
+
+Product - livezilla
+Shodan Queries - http.html:LiveZilla
+
+Product - netscaler_sd-wan
+Shodan Queries - http.title:"Citrix SD-WAN"
+
+Product - gateway
+Shodan Queries - title:"Citrix Gateway"
+
+Product - sharefile_storage_zones_controller
+Shodan Queries - title:"ShareFile Storage Server"
+
+Product - netscaler_application_delivery_controller
+Shodan Queries - title:"Citrix Gateway" || title:"Netscaler Gateway"
+
+Product - openemr
+Shodan Queries - title:"OpenEMR"
+
+Product - osticket
+Shodan Queries - title:"osTicket"
+
+Product - grafana
+Shodan Queries - title:"Grafana"
+
+Product - webmin
+Shodan Queries - title:"Webmin"
+
+Product - listserv
+Shodan Queries - http.html:"LISTSERV"
+
+Product - harbor
+Shodan Queries - http.favicon.hash:657337228
+
+Product - dapr_dashboard
+Shodan Queries - http.title:"Dapr Dashboard"
+
+Product - rconfig
+Shodan Queries - title:"rConfig", http.title:"rConfig"
+
+Product - thinvnc
+Shodan Queries - http.favicon.hash:-1414548363
+
+Product - openfire
+Shodan Queries - title:"openfire"
+
+Product - ex1200t_firmware
+Shodan Queries - title:"TOTOLINK"
+
+Product - a3700r_firmware
+Shodan Queries - title:"Totolink"
+
+Product - influxdb
+Shodan Queries - InfluxDB
+
+Product - labkey_server
+Shodan Queries - Server: Labkey
+
+Product - revive_adserver
+Shodan Queries - http.favicon.hash:106844876
+
+Product - pypiserver
+Shodan Queries - html:"pypiserver"
+
+Product - photo_station
+Shodan Queries - Content-Length: 580 "http server 1.0", title:"QNAP"
+
+Product - linear_emerge_essential_firmware
+Shodan Queries - http.title:"eMerge", title:"eMerge"
+
+Product - emerge_e3_firmware
+Shodan Queries - http.title:"Linear eMerge", title:"eMerge", http.title:"eMerge"
+
+Product - sma1000_firmware
+Shodan Queries - title:"Appliance Management Console Login"
+
+Product - analytics
+Shodan Queries - http.favicon.hash:-1381126564
+
+Product - qdpm
+Shodan Queries - http.favicon.hash:762074255
+
+Product - hoteldruid
+Shodan Queries - http.favicon.hash:-1521640213
+
+Product - wn530hg4_firmware
+Shodan Queries - http.html:"Wavlink"
+
+Product - wn530h4_firmware
+Shodan Queries - http.html:"Wavlink"
+
+Product - wn575a4_firmware
+Shodan Queries - http.title:"Wi-Fi APP Login"
+
+Product - wl-wn535k2_firmware
+Shodan Queries - http.title:"Wi-Fi APP Login"
+
+Product - wn535g3_firmware
+Shodan Queries - http.title:"Wi-Fi APP Login", http.html:"Wavlink"
+
+Product - wn579x3_firmware
+Shodan Queries - http.html:"Wavlink"
+
+Product - wl-wn530hg4_firmware
+Shodan Queries - http.html:"WN530HG4", http.title:"Wi-Fi APP Login"
+
+Product - wn533a8_firmware
+Shodan Queries - http.title:"Wi-Fi APP Login", http.html:"Wavlink"
+
+Product - wl-wn530h4_firmware
+Shodan Queries - http.favicon.hash:-1350437236
+
+Product - glpi
+Shodan Queries - http.favicon.hash:"-1474875778"
+
+Product - superwebmailer
+Shodan Queries - title:"SuperWebMailer"
+
+Product - prtg_network_monitor
+Shodan Queries - title:"prtg"
+
+Product - micollab_audio\,_web_\&_video_conferencing
+Shodan Queries - html:"Mitel" html:"MiCollab"
+
+Product - teampass
+Shodan Queries - http.html:"teampass"
+
+Product - artica_proxy
+Shodan Queries - http.html:"Artica"
+
+Product - microweber
+Shodan Queries - http.html:"microweber", http.favicon.hash:780351152
+
+Product - bitrix24
+Shodan Queries - html:"/bitrix/"
+
+Product - extreme_management_center
+Shodan Queries - title:"Extreme Management Center"
+
+Product - pandora_fms
+Shodan Queries - title:"Pandora FMS"
+
+Product - gitea
+Shodan Queries - html:"Powered by Gitea Version", title:"Gitea"
+
+Product - cockpit
+Shodan Queries - http.favicon.hash:688609340, html:"Cockpit"
+
+Product - terramaster_operating_system
+Shodan Queries - TerraMaster
+
+Product - weiphp
+Shodan Queries - http.html:"WeiPHP5.0"
+
+Product - 74cms
+Shodan Queries - http.html:"74cms"
+
+Product - opnsense
+Shodan Queries - title:"OPNsense"
+
+Product - high_cms
+Shodan Queries - title:"HighMail"
+
+Product - d-copia253mf_plus_firmware
+Shodan Queries - http.favicon.hash:-50306417
+
+Product - open-xchange_appsuite
+Shodan Queries - html:"Appsuite"
+
+Product - quixplorer
+Shodan Queries - http.title:"My Download Server"
+
+Product - cute_editor
+Shodan Queries - http.component:"ASP.NET"
+
+Product - sfos
+Shodan Queries - http.title:"Sophos"
+
+Product - mobile
+Shodan Queries - http.favicon.hash:-1274798165
+
+Product - web_appliance
+Shodan Queries - title:"Sophos Web Appliance"
+
+Product - consul
+Shodan Queries - title:"Consul by HashiCorp"
+
+Product - sentinel
+Shodan Queries - title:"Sentinel Dashboard"
+
+Product - gitlab
+Shodan Queries - http.title:"GitLab", title:"Gitlab"
+
+Product - rocket.chat
+Shodan Queries - http.title:"Rocket.Chat"
+
+Product - car_rental_management_system
+Shodan Queries - http.html:"Car Rental Management System"
+
+Product - eventon
+Shodan Queries - vuln:CVE-2023-2796
+
+Product - opentsdb
+Shodan Queries - html:"OpenTSDB"
+
+Product - rukovoditel
+Shodan Queries - http.favicon.hash:-1499940355
+
+Product - smartstorenet
+Shodan Queries - http.html:'content="Smartstore'
+
+Product - big-ip_access_policy_manager
+Shodan Queries - http.title:"BIG-IP&reg;-+Redirect" +"Server"
+
+Product - opensis
+Shodan Queries - http.title:"openSIS", title:"openSIS"
+
+Product - mojarra
+Shodan Queries - html:"javax.faces.resource"
+
+Product - aptus_web
+Shodan Queries - http.title:"Intellian Aptus Web"
+
+Product - revive_adserver
+Shodan Queries - http.favicon.hash:106844876
+
+Product - vigorconnect
+Shodan Queries - http.html:"VigorConnect"
+
+Product - cacti
+Shodan Queries - title:"Login to Cacti", title:"Cacti"
+
+Product - craft_cms
+Shodan Queries - http.favicon.hash:-47932290
+
+Product - tew-827dru_firmware
+Shodan Queries - http.html:"TEW-827DRU"
+
+Product - minio
+Shodan Queries - title:"Minio Console"
+
+Product - adminer
+Shodan Queries - title:"Login - Adminer"
+
+Product - jellyfin
+Shodan Queries - http.html:"Jellyfin", http.title:"Jellyfin"
+
+Product - r-seenet
+Shodan Queries - http.html:"R-SeeNet"
+
+Product - evlink_city_evc1s22p4_firmware
+Shodan Queries - title:"EVSE web interface"
+
+Product - spacelogic_c-bus_home_controller_firmware
+Shodan Queries - html:"SpaceLogic C-Bus"
+
+Product - huemagic
+Shodan Queries - title:"NODE-RED"
+
+Product - aurall_rec_monitor
+Shodan Queries - html:"AURALL"
+
+Product - impresscms
+Shodan Queries - http.html:"ImpressCMS"
+
+Product - fudforum
+Shodan Queries - http.html:"Powered by: FUDforum", html:"FUDforum"
+
+Product - appspace
+Shodan Queries - title:"Appspace"
+
+Product - mautic
+Shodan Queries - title:"Mautic"
+
+Product - openam
+Shodan Queries - http.title:"OpenAM"
+
+Product - am
+Shodan Queries - http.title:"OpenAM"
+
+Product - ghost
+Shodan Queries - http.component:"Ghost"
+
+Product - sidekiq
+Shodan Queries - title:"Sidekiq"
+
+Product - sg_2404_mr_firmware
+Shodan Queries - title:"Intelbras"
+
+Product - voipmonitor
+Shodan Queries - http.title:"VoIPmonitor"
+
+Product - appliance_base_software
+Shodan Queries - set-cookie: nsbase_session
+
+Product - vantara_pentaho
+Shodan Queries - Pentaho
+
+Product - vantara_pentaho_business_analytics_server
+Shodan Queries - http.favicon.hash:1749354953
+
+Product - webctrl
+Shodan Queries - html:"/_common/lvl5/dologin.jsp"
+
+Product - 11n_firmware
+Shodan Queries - http.title:"Tenda 11N"
+
+Product - node-red-dashboard
+Shodan Queries - title:"Node-RED"
+
+Product - erxes
+Shodan Queries - http.title:"erxes"
+
+Product - raspap
+Shodan Queries - http.favicon.hash:-1465760059
+
+Product - connect
+Shodan Queries - http.favicon.hash:217119619
+
+Product - maxsite_cms
+Shodan Queries - html:'content="MaxSite CMS'
+
+Product - bludit
+Shodan Queries - title:"Bludit"
+
+Product - thruk
+Shodan Queries - http.html:"Thruk"
+
+Product - workforce_optimization
+Shodan Queries - title:"Verint Sign-in"
+
+Product - jeecg
+Shodan Queries - title:"Jeecg-Boot"
+
+Product - jeecg-boot
+Shodan Queries - http.favicon.hash:1380908726
+
+Product - jeecg_boot
+Shodan Queries - http.favicon.hash:1380908726
+
+Product - cobranca
+Shodan Queries - http.favicon.hash:876876147
+
+Product - cliniccases
+Shodan Queries - http.title:"ClinicCases",html:"/cliniccases/"
+
+Product - cachet
+Shodan Queries - http.favicon.hash:-1606065523
+
+Product - e1_zoom_firmware
+Shodan Queries - http.title:"Reolink"
+
+Product - ind780_firmware
+Shodan Queries - IND780
+
+Product - geoserver
+Shodan Queries - title:"GeoServer", title:"geoserver"
+
+Product - testrail
+Shodan Queries - http.html:"TestRail"
+
+Product - spotweb
+Shodan Queries - title:"SpotWeb - overview"
+
+Product - redash
+Shodan Queries - http.favicon.hash:698624197
+
+Product - metabase
+Shodan Queries - http.title:"Metabase"
+
+Product - flatpress
+Shodan Queries - http.html:"Flatpress", http.html:"flatpress", http.favicon.hash:-1189292869
+
+Product - seomatic
+Shodan Queries - X-Powered-By: Craft CMS html:"SEOmatic"
+
+Product - experience_platform
+Shodan Queries - http.title:"SiteCore"
+
+Product - experience_commerce
+Shodan Queries - title:"Sitecore"
+
+Product - central_authentication_service
+Shodan Queries - http.title:'CAS - Central Authentication Service'
+
+Product - gocd
+Shodan Queries - http.title:"Create a pipeline - Go",html:"GoCD Version"
+
+Product - atmail
+Shodan Queries - http.html:"Powered by Atmail", http.html:"atmail"
+
+Product - kkfileview
+Shodan Queries - http.html:"kkFileView"
+
+Product - resin
+Shodan Queries - html:"Resin"
+
+Product - reprise_license_manager
+Shodan Queries - http.html:"Reprise License Manager", http.html:"Reprise License"
+
+Product - appcms
+Shodan Queries - http.html:"Powerd by AppCMS"
+
+Product - tlr-2005ksh_firmware
+Shodan Queries - http.html:"TLR-2005KSH"
+
+Product - sdt-cs3b1_firmware
+Shodan Queries - html:"SDT-CW3B1"
+
+Product - ligeo_basics
+Shodan Queries - title:"Ligeo"
+
+Product - colibri_firmware
+Shodan Queries - http.html:"Franklin Fueling Systems"
+
+Product - genieacs
+Shodan Queries - http.favicon.hash:-2098066288
+
+Product - download_monitor
+Shodan Queries - html:"/wp-content/plugins/download-monitor/"
+
+Product - drawio
+Shodan Queries - http.title:"Flowchart Maker"
+
+Product - junos
+Shodan Queries - title:"Juniper Web Device Manager"
+
+Product - ap_pagebuilder
+Shodan Queries - http.component:"Prestashop"
+
+Product - trilium
+Shodan Queries - title:"Trilium Notes"
+
+Product - bigant_server
+Shodan Queries - http.html:"BigAnt", http.html:"bigant"
+
+Product - metersphere
+Shodan Queries - html:"metersphere"
+
+Product - intouch_access_anywhere
+Shodan Queries - http.html:"InTouch Access Anywhere"
+
+Product - mcms
+Shodan Queries - http.favicon.hash:1464851260
+
+Product - casdoor
+Shodan Queries - http.title:"Casdoor"
+
+Product - dogtagpki
+Shodan Queries - title:"Identity Management" html:"FreeIPA"
+
+Product - smartertrack
+Shodan Queries - http.favicon.hash:1410071322
+
+Product - icinga_web_2
+Shodan Queries - title:"Icinga"
+
+Product - jai-ext
+Shodan Queries - /geoserver/
+
+Product - contao
+Shodan Queries - title:"Contao"
+
+Product - thinkphp
+Shodan Queries - title:"ThinkPHP", title:"Thinkphp"
+
+Product - motioneye
+Shodan Queries - html:"MotionEye"
+
+Product - kavita
+Shodan Queries - title:"kavita"
+
+Product - collaboration
+Shodan Queries - http.favicon.hash:"1624375939", http.favicon.hash:475145467
+
+Product - zimbra
+Shodan Queries - http.favicon.hash:475145467
+
+Product - caddy
+Shodan Queries - Server: caddy
+
+Product - sv-cpt-mc310_firmware
+Shodan Queries - http.html:"SolarView Compact"
+
+Product - solarview_compact_firmware
+Shodan Queries - http.favicon.hash:"-244067125", http.html:"SolarView Compact"
+
+Product - ispy
+Shodan Queries - http.html:"iSpy is running"
+
+Product - roxy-wi
+Shodan Queries - http.html:"Roxy-WI"
+
+Product - gitblit
+Shodan Queries - http.html:"Gitblit"
+
+Product - hospital_management_system
+Shodan Queries - http.html:"Hospital Management System"
+
+Product - open_edx
+Shodan Queries - http.html:"Open edX"
+
+Product - i3geo
+Shodan Queries - http.html:"i3geo"
+
+Product - msnswitch_firmware
+Shodan Queries - http.favicon.hash:-2073748627 || http.favicon.hash:-1721140132
+
+Product - avideo
+Shodan Queries - http.html:"AVideo"
+
+Product - nvrsolo_firmware
+Shodan Queries - http.html:"NVRsolo"
+
+Product - basic_pdu_firmware
+Shodan Queries - http.html:"Powertek"
+
+Product - pmb
+Shodan Queries - http.html:"PMB Group", http.favicon.hash:1469328760
+
+Product - wapples
+Shodan Queries - http.title:"Intelligent WAPPLES"
+
+Product - ssl_vpn
+Shodan Queries - http.html_hash:510586239
+
+Product - eshop_-_ecommerce_\/_store_website
+Shodan Queries - http.html:"eShop - Multipurpose Ecommerce"
+
+Product - moodle
+Shodan Queries - title:"Moodle"
+
+Product - zk_framework
+Shodan Queries - http.title:"Server backup manager"
+
+Product - omnia_mpx_node_firmware
+Shodan Queries - http.title:"Omnia MPX Node | Login"
+
+Product - servicenow
+Shodan Queries - http.title:"ServiceNow"
+
+Product - academy_lms
+Shodan Queries - html:"Academy LMS"
+
+Product - free5gc
+Shodan Queries - http.title:"free5GC Web Console"
+
+Product - group_export
+Shodan Queries - http.component:"Atlassian Jira"
+
+Product - syncserver_s650_firmware
+Shodan Queries - html:"Symmetricom SyncServer"
+
+Product - laravel_filemanager
+Shodan Queries - http.html:"Laravel Filemanager"
+
+Product - reqlogic
+Shodan Queries - http.html:"ReQlogic"
+
+Product - rpcms
+Shodan Queries - http.html:"RPCMS"
+
+Product - candidats
+Shodan Queries - http.html:"CandidATS"
+
+Product - opencats
+Shodan Queries - title:"OpenCATS", title:"opencats"
+
+Product - ilias
+Shodan Queries - http.html:"ILIAS"
+
+Product - kubeview
+Shodan Queries - http.title:"KubeView"
+
+Product - linear_emerge_e3_access_control_firmware
+Shodan Queries - http.html:"Linear eMerge"
+
+Product - nexusphp
+Shodan Queries - http.favicon.hash:-582931176
+
+Product - masacms
+Shodan Queries - Generator: Masa CMS
+
+Product - mura_cms
+Shodan Queries - Generator: Mura CMS
+
+Product - yui
+Shodan Queries - html:"bower_components/yui2/"
+
+Product - pyload
+Shodan Queries - html:"pyload", title:"pyload"
+
+Product - goanywhere_managed_file_transfer
+Shodan Queries - http.favicon.hash:1484947000, http.favicon.hash:1484947000,1828756398,1170495932
+
+Product - phpipam
+Shodan Queries - html:"phpIPAM IP address management"
+
+Product - modoboa
+Shodan Queries - html:"Modoboa"
+
+Product - mlflow
+Shodan Queries - http.title:"mlflow"
+
+Product - imgproxy
+Shodan Queries - Server: imgproxy
+
+Product - compact_controller_100_firmware
+Shodan Queries - html:"/wbm/" html:"wago"
+
+Product - phpmyfaq
+Shodan Queries - http.html:"phpmyfaq"
+
+Product - web2py
+Shodan Queries - http.favicon.hash:-1680052984
+
+Product - kubepi
+Shodan Queries - html:"kubepi"
+
+Product - kubeoperator
+Shodan Queries - html:"KubeOperator"
+
+Product - unified_threat_management
+Shodan Queries - title:"Securepoint UTM"
+
+Product - obsidian
+Shodan Queries - title:"Plesk Obsidian"
+
+Product - arc
+Shodan Queries - http.favicon.hash:163538942
+
+Product - squidex
+Shodan Queries - http.favicon.hash:1099097618
+
+Product - mojoportal
+Shodan Queries - html:"mojoPortal"
+
+Product - ruckus_wireless_admin
+Shodan Queries - title:"ruckus wireless"
+
+Product - zoneminder
+Shodan Queries - html:"ZM - Login"
+
+Product - cxtpc_firmware
+Shodan Queries - Server: Lexmark_Web_Server
+
+Product - stagil_navigation
+Shodan Queries - title:Jira
+
+Product - jorani
+Shodan Queries - http.favicon.hash:-2032163853
+
+Product - atutor
+Shodan Queries - http.html:"Atutor"
+
+Product - appwrite
+Shodan Queries - title:"Sign In - Appwrite"
+
+Product - papercut_mf
+Shodan Queries - http.html:"PaperCut", html:"content="PaperCut""
+
+Product - papercut_ng
+Shodan Queries - html:"content="PaperCut""
+
+Product - home-assistant
+Shodan Queries - title:"Home Assistant"
+
+Product - ethos_identity
+Shodan Queries - html:"Ellucian Company"
+
+Product - energy_communication_unit_firmware
+Shodan Queries - title:"Altenergy Power Control Software"
+
+Product - cpanel
+Shodan Queries - title:"cPanel"
+
+Product - powerjob
+Shodan Queries - html:"PowerJob"
+
+Product - leocustomajax
+Shodan Queries - http.component:"Prestashop"
+
+Product - magnusbilling
+Shodan Queries - http.html:"magnusbilling"
+
+Product - repetier-server
+Shodan Queries - title:"Repetier-Server"
+
+Product - timekeeper
+Shodan Queries - http.favicon.hash:2134367771
+
+Product - jeecg_p3_biz_chat
+Shodan Queries - http.favicon.hash:1380908726
+
+Product - chamilo
+Shodan Queries - http.component:"Chamilo"
+
+Product - gibbon
+Shodan Queries - http.favicon.hash:-165631681
+
+Product - control_panel
+Shodan Queries - http.favicon.hash:-476299640
+
+Product - traggo
+Shodan Queries - html:"traggo"
+
+Product - nocodb
+Shodan Queries - http.favicon.hash:-2017596142
+
+Product - lightdash
+Shodan Queries - title:"Lightdash"
+
+Product - cloudpanel
+Shodan Queries - title:"Cloudpanel"
+
+Product - pm43_firmware
+Shodan Queries - http.html:"/main/login.lua?pageid="
+
+Product - casaos
+Shodan Queries - http.html:"/CasaOS-UI/public/index.html"
+
+Product - piwigo
+Shodan Queries - http.favicon.hash:540706145
+
+Product - xwiki
+Shodan Queries - html:"data-xwiki-reference"
+
+Product - copyparty
+Shodan Queries - title:"copyparty"
+
+Product - mirth_connect
+Shodan Queries - title:"mirth connect administrator"
+
+Product - ip-he950e_firmware
+Shodan Queries - "Server: thttpd/2.25b 29dec2003" content-length:1133
+
+Product - filemage
+Shodan Queries - title:"FileMage"
+
+Product - webui-aria2
+Shodan Queries - title:"Aria2 WebUI"
+
+Product - fieldpopupnewsletter
+Shodan Queries - html:"fieldpopupnewsletter"
+
+Product - simpleimportproduct
+Shodan Queries - http.component:"PrestaShop"
+
+Product - axigen_mobile_webmail
+Shodan Queries - http.favicon.hash:-1247684400
+
+Product - shuttle_booking_software
+Shodan Queries - html:"PHP Jabbers.com"
+
+Product - taxi_booking_script
+Shodan Queries - html:"PHP Jabbers.com"
+
+Product - qlik_sense
+Shodan Queries - html:"Qlik", http.favicon.hash:-74348711
+
+Product - teamcity
+Shodan Queries - title:TeamCity, http.component:"TeamCity"
+
+Product - ur5x_firmware
+Shodan Queries - http.html:rt_title
+
+Product - frigate
+Shodan Queries - title:"Frigate"
+
+Product - vitogate_300_firmware
+Shodan Queries - title:"Vitogate 300"
+
+Product - suitecrm
+Shodan Queries - title:"SuiteCRM"
+
+Product - None
+Shodan Queries - http.favicon.hash:463802404
+
+Product - graph_api
+Shodan Queries - title:"owncloud"
+
+Product - majordomo
+Shodan Queries - http.favicon.hash:1903390397
+
+Product - winter
+Shodan Queries - title:"Winter CMS"
+
+Product - on-premises_installation
+Shodan Queries - http.favicon.hash:1199592666
+
+Product - document_locator
+Shodan Queries - title:"Document Locator - WebTools"
+
+Product - citrix_storefront
+Shodan Queries - html:"/Citrix/StoreWeb"
+
+Product - ray
+Shodan Queries - http.favicon.hash:463802404, html:"Ray Dashboard"
+
+Product - modeldb
+Shodan Queries - http.favicon.hash:-2097033750
+
+Product - h2o
+Shodan Queries - title:"H2O Flow"
+
+Product - opencms
+Shodan Queries - title:"opencms", /opencms/
+
+Product - likeshop
+Shodan Queries - http.favicon.hash:874152924
+
+Product - screenconnect
+Shodan Queries - http.favicon.hash:-82958153
+
+Product - apollo vx20
+Shodan Queries - ssl:"WyreStorm Apollo VX20"
+
